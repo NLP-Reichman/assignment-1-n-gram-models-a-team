@@ -1,5 +1,7 @@
 {
-  "test_link": "NameError(\"name 'NOTEBOOK_LINK' is not defined\")\nTraceback (most recent call last):\n  File \"/var/folders/x6/151sb8v51rdf6whqq8lnypsr0000gn/T/ipykernel_11083/2957777135.py\", line 48, in <module>\n    cur_res = test()\n              ^^^^^^\n  File \"/var/folders/x6/151sb8v51rdf6whqq8lnypsr0000gn/T/ipykernel_11083/2957777135.py\", line 6, in test_link\n    'link': NOTEBOOK_LINK\n            ^^^^^^^^^^^^^\nNameError: name 'NOTEBOOK_LINK' is not defined\n",
+  "test_link": {
+    "link": "https://colab.research.google.com/drive/1Dzhy7x4hA-k5POsLPrPCB6wMJTJO5Ef5?usp=sharing"
+  },
   "test_preprocess": {
     "vocab_length": 1804
   },
